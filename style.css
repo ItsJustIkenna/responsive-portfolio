@@ -2,3 +2,31 @@ body {
     background-image: url(../responsive-portfolio/ignasi_pattern_s.png);
     background-repeat: repeat;
 }
+
+.navbar-brand {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: #5dbcd2;
+}
+
+.display-4 {
+    color: #5dbcd2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background: #5dbcd2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.title {
+    width: 100px;
+    height: 50px;
+    line-height: 50px;
+    background: white;
+    text-align: center;
+    font-size: 15.5px;
+}
