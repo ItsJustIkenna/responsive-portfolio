@@ -7,17 +7,17 @@ body {
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    background-color: #5dbcd2;
+    background-color: teal;
 }
 
 .display-4 {
-    color: #5dbcd2;
+    color: teal;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 }
 
 .btn-primary {
-    background: #5dbcd2;
+    background: teal;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 }
