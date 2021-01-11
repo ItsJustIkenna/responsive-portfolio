@@ -1,4 +1,10 @@
-# responsive-portfolio
+# Responsive-portfolio
+A responsive personal portfolio displaying my skills, work, and some information about me. As well as my social media and a contact page to be able to reach me.
 
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
+# Screenshot
 
+![screenshot](capture2.PNG)
+
+# Link to website
+
+https://itsjustikenna.github.io/responsive-portfolio/#

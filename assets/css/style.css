@@ -6,13 +6,13 @@
   --font-semi: 600;
 }
 
-/*===== Colores =====*/
+/*===== Colors =====*/
 :root {
   --first-color: #4070f4;
   --second-color: #0e2431;
 }
 
-/*===== Fuente y tipografia =====*/
+/*===== Fonts and Typography =====*/
 :root {
   --body-font: "Poppins", sans-serif;
   --big-font-size: 2rem;
@@ -27,7 +27,7 @@
   }
 }
 
-/*===== Margenes =====*/
+/*===== Margins =====*/
 :root {
   --mb-1: 0.5rem;
   --mb-2: 1rem;
@@ -306,6 +306,9 @@ img {
 }
 .skills__node {
   width: 85%;
+}
+.skills__python {
+  width: 65%;
 }
 .skills__img {
   border-radius: 0.5rem;
