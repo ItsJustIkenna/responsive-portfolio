@@ -3,7 +3,7 @@ A responsive personal portfolio displaying my skills, work, and some information
 
 # Screenshot
 
-![screenshot](Capture2.PNG)
+![screenshot]()
 
 # Link to website
 
